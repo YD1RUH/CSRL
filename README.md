@@ -9,7 +9,7 @@ an example C used to build server, reverse proxy, and load balancer multiple ser
 ## how to use ?
 
 ### http_server
-just run `server.exe <IP Address> <Port>` then your http server ready to use.
+- just run `server.exe <IP Address> <Port>` then your http server ready to use.
 
 ### single_server_reverse_proxy
 - run `server.exe <IP Address> <Port>` or you can use php server like `php.exe -S <IP Address>:<port>`.
