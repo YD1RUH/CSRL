@@ -23,5 +23,5 @@ an example C used to build server, reverse proxy, and load balancer multiple ser
 - your load balancer ready to use.
 
 ## Motivation
-it's just a hobby, challenging my self to creat something more efficient and practical.
+it's just a hobby, challenging my self to create something more efficient and practical.
 73
