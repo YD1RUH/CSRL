@@ -1,5 +1,10 @@
 # CSRL
 an example C used to build server, reverse proxy, and load balancer multiple server
+<table>
+  <tr>
+    <td><img src="https://github.com/YD1RUH/CSRL/blob/main/server_C.png"></td>
+  </tr>
+</table>
 
 ## what is this ?
 1. `http_server` just an example http server build using C.
