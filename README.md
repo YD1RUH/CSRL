@@ -6,6 +6,9 @@ an example C used to build server, reverse proxy, and load balancer multiple ser
 2. `single_server_reverse_proxy` an example reverse proxy build using C, also work with php.
 3. `multiple_server_reverse_proxy_balancer` an example reverse proxy build using C with round-robin method to distribute request with multiple server, also work with php too.
 
+## Requirement
+- Windows Operating System
+
 ## how to use ?
 
 ### http_server
